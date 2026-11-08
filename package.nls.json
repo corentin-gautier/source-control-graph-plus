@@ -1,5 +1,5 @@
 {
-	"description": "Adds the Git actions missing from VS Code's built-in Source Control Graph: edit, fixup, squash, drop and revert commits, merge, rebase, reset, and manage branches and tags. No extra view.",
+	"description": "Adds the Git actions missing from VS Code's built-in Source Control Graph: amend any commit (reword, change author or date, add staged changes), fixup, squash, drop and revert commits, merge, rebase, reset, and manage branches and tags. No extra view.",
 	"command.pick": "Edit a Commit...",
 	"command.amend": "Edit Commit...",
 	"command.reset": "Reset Current Branch to This Commit...",

@@ -1,5 +1,5 @@
 {
-	"description": "Ajoute au graphe intégré du contrôle de code source de VS Code les actions Git qui lui manquent : modifier, compléter, squasher, supprimer et annuler des commits, fusionner, rebaser, réinitialiser, et gérer branches et tags. Sans nouvelle vue.",
+	"description": "Ajoute au graphe intégré du contrôle de code source de VS Code les actions Git qui lui manquent : amender n'importe quel commit (message, auteur, date, ajout des changements indexés), compléter, squasher, supprimer et annuler des commits, fusionner, rebaser, réinitialiser, et gérer branches et tags. Sans nouvelle vue.",
 	"command.pick": "Modifier un commit...",
 	"command.amend": "Modifier le commit...",
 	"command.reset": "Réinitialiser la branche courante sur ce commit...",
