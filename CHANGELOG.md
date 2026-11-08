@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.8.2
+
+- Short description: mentions amending any commit, the word people search for.
+
 ## 0.8.1
 
 - README: a screenshot of the right-click menu, and plainer wording.
